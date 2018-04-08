@@ -1,2 +1,3 @@
-client.name: client2
-client.id: 10002
+client:
+  name: client2
+  id: 10002
